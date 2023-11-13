@@ -1,2 +1,6 @@
-# workspace
-i'm a newbie, pls don't hurt me
+include<iostream>
+int main(){
+using namespace std;
+cout<<"Hello world"<<endl;
+return 0;
+}
